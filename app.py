@@ -9,6 +9,7 @@ import numpy as np
 import pickle
 import pandas as pd
 import streamlit as st
+import sklearn
 
 from PIL import Image
 
